@@ -1,7 +1,7 @@
 # linkedin-job-scrape
 A lightweight, full-stack LinkedIn Job Scraper featuring a native PHP streaming backend API and a responsive, dynamic HTML/CSS/JavaScript single-page dashboard. Extracts real-time job data instantly without authentication or memory crashes.
 
-# Tech StackBackend
+# Tech Stack
 - **Backend** - Native PHP (cURL, DOMDocument, HTTP Chunked Streaming)
 - **Frontend** - Vanilla JS (Fetch Streams API), HTML5, CSS Grid
 - **Data Source** - LinkedIn Guest Search API (No Auth)
