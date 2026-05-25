@@ -1,0 +1,35 @@
+# Dependencies
+vendor/
+composer.lock
+
+# Environment & Configuration
+.env
+.env.local
+.env.*.local
+config.php
+
+# Cache & Logs
+cache/
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PHP
+.php-cs-fixer.cache
+.phpunit.result.cache
+
+# OS
+.env.production
+.env.*.production
